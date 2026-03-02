@@ -1,4 +1,4 @@
-![headshot](kit.png)
+![kit](https://github.com/user-attachments/assets/0daec6bd-543e-4bda-b7b5-f823f980d75e)
 
 
 
