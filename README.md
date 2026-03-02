@@ -1,3 +1,7 @@
+![headshot](kit.png)
+
+
+
 # hello-Marco
 this is my first repository
 
